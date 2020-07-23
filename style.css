@@ -1,0 +1,52 @@
+.color1{
+ color: blue;
+}
+ body {
+ font-family:Courier;
+ line-height:28px;
+}
+.half-width{
+
+ width:50%;
+ float:left;
+}
+
+
+.side-img{
+ width:50%;
+ padding-left:25%
+}
+
+.primary-btn{
+ color:white;
+ background-color:steelblue;
+ padding: 10px 20px 10px 20px;
+ border-radius:20px;
+ text-decoration:none;
+}
+
+ h1{
+ font-size:2 em;
+ }
+ 
+.container{
+ padding-left:5px;
+ display:inline-block;
+}
+
+.experiences{
+ padding:30px;
+ margin:30px;
+ background-color:rgb(237,251,255);
+ border-radius:20px;
+}
+.experience-item{
+ padding:10px;
+ border-left:1px solid rgba(140,120,250,0.2)
+}
+ 
+.purple{
+
+ color: purple;
+
+}
